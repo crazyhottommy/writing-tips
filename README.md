@@ -1,7 +1,7 @@
 # writing tips
 
 I am taking a a series of writing classes at MD Anderson Cancer Center taught by [Dr.Mark Picus](https://gsbs.uth.edu/faculty/faculty-directory/faculty-profiles.htm?id=2851994)  
-He is a great teacher of knowledge and houmor. I love his classes and I want to put the key things that I have leraned here.  
+He is a great teacher of knowledge and humor. I love his classes and I want to put the key things that I have leraned here.  
 
 #### writing 1  
 1. Here are some qualities of a good title of a paper:  
