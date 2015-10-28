@@ -123,4 +123,4 @@ is necessary information, we can assume that the author has more than one brothe
 
 
 By Dr.Mark Picus
->** Do not tell your reader what is interesting or suprising, although `interestingly`, `surprisingly` etc are frequently used in the literature**
+>**Do not tell your reader what is interesting or suprising although `interestingly`, `surprisingly` etc are frequently used in the literature**
