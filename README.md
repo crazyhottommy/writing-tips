@@ -60,6 +60,59 @@ at all possible.
 | does not usually refer to a proper noun (but it can in special circumstances.)                                                     | may refer to a proper or common noun.                                                                                                                                 |
 | may refer to a noun with a generic determiner (every, any, some, no or none).                                                      | may not refer to a noun with a generic determiner, except for some.                                                                                                   |
 | can only refer to a noun, not to an idea                                                                                           | can refer to a noun or an idea.                                                                                                                                       |
+[proper noun vs common noun](http://www.english-grammar-revolution.com/proper-nouns.html)  
+
+proper noun names **specific** people, place, things or ideas: Mike, Paris, Nike.
+common noun names **non-specific** people, place, things or ideas: woman, city, dog, shore.
+
+Most of the nous followed by adjective clauses with commas (non-restrictive) are proper nouns, while most of the nouns followed by adjective clauses without commas (restrictive) are common nouns. **what is important here is not whether the nouns are proper or common, but rather what the reader knows about the nouns and what the adjective clauses tell the reader about the nouns.** 
+
+Let's see an example:
+
+| original sentence                                                                                                                                                                              | take out the adjective clause                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 1. The Amazon rain forest, where much of the world’s oxygen is produced, is currently threatened by development. But Brazil has other forests which are even more endangered than the Amazon.  | 2. The Amazon rain forest is currently threatened by development. But Brazil has other forests.  |
+
+
+
+>The example on the left is very clear. The reader is introduced to the Amazon rain forest and
+then to Brazil’s other forests, and a comparison is made between the two forests. However, the
+example on the right is not so clear. There is no problem with the first sentence. If the adjective
+clause is taken out, the sentence is still clear. The adjective clause where much of the world’s
+oxygen is produced simply gives additional information about the Amazon rain forest, but that
+information is not necessary in order to understand the paragraph.
+
+>However, in the second sentence, the adjective clause which are even more endangered than the
+Amazon gives us some very important information. That information tells us exactly which other
+forests the author is referring to and explains the relationship between these other forests and the
+Amazon, and this relationship is very important for understanding the paragraph. Without that
+adjective clause, a reader might think that the other Brazilian forests referred to are not
+endangered and therefore we don’t need to worry about the Amazon, but that isn’t what the
+author wants to tell us.
+
+| original sentence                                                                                                                                                        | take out the adjective clause                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3. Experts, who are working in the Atlantic Forest, say it will take at least 50 more years before the Atlantic Forest appears again in the state of Rio Grande do Sul.  | 4. Experts who are working in the Atlantic Forest say it will take at least 50 more years before the Atlantic Forest appears again in the state of Rio Grande do Sul. |
+
+>In the sentence on the left, the writer assumes that the reader knows exactly which experts he is
+referring to. Probably, a previous sentence has already mentioned these experts, so the reference
+is clear. In the sentence on the right, the noun experts can refer to every expert in every field of
+study. In order to make it clear which experts are being referred to, a restrictive adjective clause is
+used to make it clear to the reader: only those experts who are working in the Atlantic Forest. 
+
+| original sentence                                                                                             | take out the adjective clause                                                                               |
+| ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 5. My brother, who is a cattle rancher in Brazil, has contributed to the destruction of the Atlantic Forest.  | 6. My brother who is a cattle rancher in Brazil has contributed to the destruction of the Atlantic Forest.  |
+
+>These adjective clauses can actually give information about the author, even if we don’t know
+the author at all. In the sentence on the left, we can assume that the author has only one brother.
+How can we know that? The adjective clause is nonrestrictive; therefore, we can take it out of the
+sentence and still understand who the noun is referring to. If the author writes “My brother has
+contributed to the destruction of the Atlantic Forest,” we can assume that the author only has one
+brother; otherwise, the author would probably need to identify the brother more completely by
+using a restrictive adjective clause. In the sentence on the right, the adjective clause is identifying
+the brother. It is telling us which brother is contributing to the destruction of the forest. Since that
+is necessary information, we can assume that the author has more than one brother. 
 
 **Tips:**
 
