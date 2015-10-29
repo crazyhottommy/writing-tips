@@ -128,5 +128,27 @@ By Dr.Mark Picus
 
 ### Verbs
 
-verbs<-- Action verb and Linking verk
-Action verb<-- transitive (followed by an object) and intransitive (no-object)
+verbs<-- Action verb and Linking verb
+Action verb<-- transitive (followed by an object) and intransitive (no-object)  
+
+**It is possible for a verb to be both transitive and intransitive:**
+We **grew** small preps of selected E. coli colonies in the lab. 
+E. coli colonies **grow** quickly under the right conditions.  
+
+
+There are not many linking verbs in English, and they are easy to remember:  
+**Group 1 – be, become, get, turn**
+I was a teacher; I became a biomedical researcher, but I got lazy and turned Republican, and now I live under the freeway.
+
+**Group 2 – look, sound, smell, taste, feel (verbs of sensation)**
+The tumor looks smaller, the patient sounds and feels good, the hospital room smells
+fresh, but the food here tastes terrible.  
+
+**Group 3 – seem, appear, grow, remain, stay, prove**
+The students seem happy, and they appear content. They grow smarter day by day, and they remain satisfied with their course of study. I’m sure they will stay cheerful while at MD Anderson, and their experience here will prove worthwhile.
+
+Use Noun or adjective after Linking verb.
+
+Many linking verbs can also be action verbs:
+The oncologist suddenly **appeared** in the patient’s room with good news.
+
