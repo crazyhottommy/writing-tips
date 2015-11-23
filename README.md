@@ -152,3 +152,22 @@ Use Noun or adjective after Linking verb.
 Many linking verbs can also be action verbs:  
 The oncologist suddenly **appeared** in the patient’s room with good news.
 
+### Nominalization and Conciseness
+Use verbs!
+
+| Noun-heavy writing style                       | prefered    |
+| ---------------------------------------------- | ----------- |
+|                effect a reduction in           | reduce      |
+|                accomplish a modification of    | modified    |
+|                put emphasis on                 | emphasize   |
+|                come to the conclusion that     | conclude    |
+|                provide with information        | inform      |
+|                increase by a factor of two     | double      |
+|                give an explanation of          | explain     |
+|                have a deleterious effect upon  | harm        |
+|                create an improvement in        | improve     |
+|                do an analysis of               | analyze     |
+|                make a recommendation that      | recommend   |
+|                conduct an investigation of     | investigate |
+|                show improvement                | improve     |
+| at this point; nowadays;...                    | now         |
