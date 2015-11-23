@@ -171,3 +171,16 @@ Use verbs!
 |                conduct an investigation of     | investigate |
 |                show improvement                | improve     |
 | at this point; nowadays;...                    | now         |
+
+### Questions to ask when editing your own paper:
+
+1.	Are subjects and verbs close together?
+2.	Does the sentence emphasize the most important idea?
+3.	Is the sentence about the subject?
+4.	Are modifiers in the correct place?
+5.	Are all the sentences in the paragraph logically connected?
+6.	Does the paragraph use BE too much?
+7.	Are there too many cases of nominalization?
+8.	Can any sentences be made more concise?
+
+
